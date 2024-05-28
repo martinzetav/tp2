@@ -2,11 +2,6 @@ este es un archivo
 
 de la rama master
 modificacion de tercera linea en ramaC1
-<<<<<<< HEAD
 quinta linea
 sexta linea
 septima linea
-=======
-
-editando desde la ramaC2
->>>>>>> ramaC2
