@@ -1,7 +1,4 @@
 este es un archivo
 
-creado
+de la rama master
 
-desde la rama master
-
-Estoy escribiendo desde la ramaCC1
